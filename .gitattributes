@@ -1,0 +1,30 @@
+* text=auto
+
+# Text-based engineering source
+*.ino text eol=lf
+*.h text eol=lf
+*.md text eol=lf
+*.gbr text eol=lf
+*.drl text eol=lf
+*.gbrjob text eol=lf
+*.kicad_mod text eol=lf
+*.kicad_pcb text eol=lf
+*.kicad_pro text eol=lf
+*.kicad_sch text eol=lf
+*.kicad_sym text eol=lf
+
+# Binary teaching and CAD assets
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.dip binary
+*.docx binary
+*.pdf binary
+*.step binary
+*.stp binary
+*.xlsx binary
+*.zip binary
+*.pptx binary
+*.sldasm binary
+*.sldprt binary
+*.stl binary

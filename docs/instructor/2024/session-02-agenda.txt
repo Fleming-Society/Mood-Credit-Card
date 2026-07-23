@@ -1,0 +1,41 @@
+Change to I2C practical code:
+===============================
+Master:
+-------
+- Remove inputText from Wire.write() and have that as an exercise to be filled in
+
+Slave:
+--------
+- Remove receivedText from Serial.print and have that as an exercise to be filled in
+
+
+Session 2 Agenda:
+========
+- Intro = recap on breadboards [15 mins] {M}
+	- 3 questions on breadboard connections
+
+- Potential divider theory w/ thermistor [10 mins] {M}
+	- Fixed resistor potential division
+	- Thermistor potential division
+
+- ESP8266 setup [20] {B}
+	- Install git link
+	- Board manager
+	- COM port
+
+- Thermistor practical [20] {B}
+	- Make circuit on breadboard
+	- !! Copy and paste given code !!
+
+- I2C Theory [5 mins] {M}
+	- Use of I2C
+
+- I2C practical [20 mins] {B}
+	- Copying code
+	- !! Fixing error in code !!
+	- Swapping over master and slave [15 mins in]
+
+- Intro to KiCad [20 mins] {C}
+
+
+T = 105 mins = 1hr 45 mins
